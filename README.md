@@ -10,4 +10,4 @@ Project Description:
 
 -Gave a technical presentation in front of other teams in order to explain the idea and results
 
-Developed with: Jupyter Notebook, Scikit-learn, NumPy,Pandas, Matplotlib
+Developed with: Jupyter Notebook, Scikit-learn, NumPy,Pandas, Matplotlib, Seaborn
