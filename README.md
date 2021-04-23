@@ -9,3 +9,5 @@ Project Description:
 -Planned out timeline to finish the project within 24 hours
 
 -Gave a technical presentation in front of other teams in order to explain the idea and results
+
+Developed with: Jupyter Notebook, Scikit-learn, NumPy,Pandas, Matplotlib
